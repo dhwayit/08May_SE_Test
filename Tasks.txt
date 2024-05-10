@@ -1,0 +1,25 @@
+
+SDLC
+
+Software development Life Cycle
+
+=> helps to create a product with quality and within time and budget.
+
+Models for adopting SDLC
+1. The Waterfall Model
+
+
+
+Create Use Case Diagrams for below topics
+1) Restaurant use case diagram
+2) Travel use case diagram
+3) Banking use case diagram
+4) Consumer electronics store use case diagram
+
+
+
+
+
+
+
+	
