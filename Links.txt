@@ -1,0 +1,40 @@
+Github Link
+
+https://github.com/dhwayit/08May_SE
+
+
+
+Google Drive Link 
+
+https://drive.google.com/drive/folders/1RGG5uGBT3R61itM4Emj5G59aC5zN5SRX?usp=drive_link
+
+
+
+Zoom Meeting
+
+https://us05web.zoom.us/j/89496375137?pwd=U2rkXaoB9ZzkEMjuzD3tfF8RfXHg4R.1
+
+id: 89496375137
+Pwd : dhway
+
+
+
+
+
+
+
+git Steps
+
+Step 1 : Create a Git Account https://github.com/
+
+Step 2: Create a repo
+
+Step 2: Download Gitbash from https://git-scm.com/downloads
+
+Step 3: install gitbash in ur local machine
+
+Step 4: clone Created Repo in ur local machine using git clone https://github.com/dhwayit/08May_SE.git
+
+Step 5: go inside ur local folder and open git base there
+
+Step 6: 
