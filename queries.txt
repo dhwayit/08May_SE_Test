@@ -1,0 +1,26 @@
+
+CREATE database dbname
+
+CREATE table testing (id int)
+
+ALTER TABLE testing ADD (gendder varchar(20),email varchar(50))
+
+ALTER TABLE testing CHANGE genderrr genderrrddd varchar(50)
+
+ALTER TABLE testing DROP genderrrddd
+
+INSERT INTO testing VALUES(1,"uname","123","mail@mail.com");
+
+INSERT INTO testing VALUE(1,"new","456","mail@mail.com");
+
+INSERT INTO testing(password,username,email) VALUE("789","asfd","mail@mail.com") ,("7877","retr","mail@mail.com"), ("75454","saw","mail@mail.com"), ("74","ewde","mail@mail.com");
+
+DROP TABLE testing;
+
+delete from testing where id = 4
+
+delete from testing 
+
+TRUNCATE TABLE testing;
+
+UPDATE users SET username = "update" WHERE id = 2;
