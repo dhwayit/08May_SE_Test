@@ -1,0 +1,4 @@
+SELECT * FROM `student` 
+SELECT name, `birthday` FROM `student` 
+SELECT name, `birthday` FROM `student` WHERE name="Muhammad Kabeer"
+SELECT * FROM `student` WHERE name="Muhammad Kabeer"
