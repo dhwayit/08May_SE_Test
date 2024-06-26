@@ -24,3 +24,7 @@ delete from testing
 TRUNCATE TABLE testing;
 
 UPDATE users SET username = "update" WHERE id = 2;
+
+
+SELECT tblresult.id,tblstudents.StudentName,tblresult.marks FROM tblresult 
+JOIN tblstudents ON tblresult.StudentId=tblstudents.StudentId WHERE tblresult.id IS NULL;
